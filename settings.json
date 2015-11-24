@@ -1,0 +1,6 @@
+{
+"JWTLogin": {
+"secret": "some-secret-string",
+"tokenOptions":  "11f6d0466f45bfd0c12e94f5d0f1e1c7202db60916c289e8670d7a12136e99b7c0e004bb302f6e0f635c03e8e001828f54d2a6f2e1b32969039ef19b533425ed",
+"verifyOptions": {}
+}}
